@@ -8,5 +8,4 @@ Projeto do Desafio do Bootcamp Hiring Coders. Sistema de e-commerce para cadastr
 
 ----------
 
-Made with ♥ by Rayana Prata 
-[Entre em contato!](https://www.linkedin.com/in/rayanaprata/)
+Made with ♥ by [Rayana Prata](https://www.linkedin.com/in/rayanaprata/)
